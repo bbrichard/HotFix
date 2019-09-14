@@ -1,0 +1,18 @@
+PODS:
+  - BuglyHotfix (2.1.0):
+    - BuglyHotfix/Core (= 2.1.0)
+  - BuglyHotfix/Core (2.1.0)
+
+DEPENDENCIES:
+  - BuglyHotfix
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BuglyHotfix
+
+SPEC CHECKSUMS:
+  BuglyHotfix: 99a969c77da1baae823a7537acb16e4f1985a5f5
+
+PODFILE CHECKSUM: c6b03d48f3d511a75363ce99c897d141d5e58d5a
+
+COCOAPODS: 1.7.5
