@@ -504,7 +504,7 @@ static void addGroupMethodsToProtocol(Protocol* protocol,JSValue *groupMethods,B
 #else
                 JP_DEFINE_TYPE_ENCODE_CASE(NSEdgeInsets);
 #endif
-
+            
                 [_protocolTypeEncodeDict setObject:@"@?" forKey:@"block"];
                 [_protocolTypeEncodeDict setObject:@"^@" forKey:@"id*"];
             }
