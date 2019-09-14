@@ -236,3 +236,8 @@ Invocation list 调用列表
 
 
 如果可以在swift 中可以通过 runtime 的方法替换 struc 的 func, 则意味着 jspatch 可以添加swift 的支持
+
+# jspatch 工作原理 ?
+# 为什么要继承OC ?
+# 为什么要添加 @objc ?
+# 为什么要添加 @dynamic ?
